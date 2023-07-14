@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm a WordPress Developer with one year of experience creating websites for local service companies. My skills include proficiency in WordPress, Divi, React, and other relevant technologies. I have experience in integrating various API's, push notifications and analytics
+I'm a WordPress | React Developer with one year of experience creating websites for local service companies. My skills include proficiency in WordPress, Divi, React, and other relevant technologies. I have experience in integrating various API's, push notifications and analytics
 
 *   🌍  I'm based in Estero, Florida
 *   🖥️  See my portfolio at [nathanwwelsh.com](http://nathanwwelsh.com)
